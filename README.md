@@ -1,7 +1,7 @@
 # Bayesian Machine Learning for Real-Time RUL Prediction of Industrial Rotating Equipment
 
 This repository contains the full modeling pipeline for a dissertation project on
-**Remaining Useful Life (RUL) prediction** of rolling-element bearings, using the
+**Bayesian Machine Learning for Real-Time Remaining Useful Life Prediction of Industrial Rotating Equipment**, using the
 **IMS Bearing Dataset** (Center for Intelligent Maintenance Systems, University of
 Cincinnati). The project progresses from exploratory data analysis, through
 classical point-prediction baselines, to Bayesian models that quantify predictive
