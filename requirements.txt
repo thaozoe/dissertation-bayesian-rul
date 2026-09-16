@@ -1,0 +1,21 @@
+# Core numerical / data handling
+numpy>=1.24
+pandas>=1.5
+scipy>=1.10
+pyarrow>=12.0          # required by pandas to read/write .parquet files
+
+# Machine learning
+scikit-learn>=1.3      # LinearRegression, MLPRegressor, BayesianRidge, GaussianProcessRegressor, PCA, StandardScaler
+xgboost>=1.7
+statsmodels>=0.14       # plot_acf (autocorrelation analysis in EDA)
+
+# Deep learning
+torch>=2.0              # LSTM baseline + MC Dropout LSTM
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+
+# Notebook environment
+jupyterlab>=4.0
+ipykernel>=6.25
